@@ -9,6 +9,12 @@ This project allowed teachers to use a personalized calendar to keep track of sp
 🌱 I’m learning next: React.js</br>
 ⚡ Fun fact: I enjoy wood burning & engraving
 
+### Connect With Me
+
+[![Email](./images/EMail.jpg)](mailto:garlandcollette@gmail.com)  [![Linkedin](./images/Linkedin.jpg)](https://www.linkedin.com/in/collettegarland/)  [![YouTube](./images/Youtube.jpg)](https://www.youtube.com/channel/UCWLX6J4_Ly1coIRbivJdtLA)
+
+
+
 <!--
 **colletteap/colletteap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

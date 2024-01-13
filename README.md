@@ -1,4 +1,4 @@
-![Name](./images/colletteLane.png)
+![Name](./images/colletteLane.jpg)
 
 ### Hi there 👋
 

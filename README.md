@@ -4,7 +4,7 @@
 
 ### About Me
 ✨My name is Collette Lane and I am a student with Get Coding; I enrolled in 2023. I successfully completed my first project, Teacher Gratitude Planner, using HTML, CSS & Javascript.
-This project allowed teachers to use a personalized calendar to keep track of special events and their to do list; focus on their personal growth through using a reflective journal and core values list; saved them time with a local storage substitute plan and gave them some resources during the tough times. If you would like to check it out, follow this link https://colletteap.github.io/gratitude-planner/. I am also working on a second project that is a booking site for a photography business.
+This project allowed teachers to use a personalized calendar to keep track of special events and their to do list; focus on their personal growth through using a reflective journal and core values list; saved them time with a local storage substitute plan and gave them some resources during the tough times. If you would like to check it out, follow this link https://colletteap.github.io/gratitude-planner/. I am also working on a second project that is a booking site for a photography business; if you would like to check out the progress click here-> https://colletteap.github.io/everstill-booking/. 
 
 🌱 I’m learning next: React.js</br>
 ✨ I have over 110 instructional videos created on my YouTube channel teaching Microsoft applications - https://www.youtube.com/channel/UCWLX6J4_Ly1coIRbivJdtLA</br>
